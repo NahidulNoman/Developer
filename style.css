@@ -2,7 +2,7 @@ body{
     font-family: 'Ubuntu Mono', monospace;margin:0;
 }
 p{
-    padding-bottom:40px
+    padding-bottom:40px;
 }
 .headone span{
 color:orange;
@@ -18,7 +18,7 @@ h1{
     font-size:60px
 }
 section{ 
-    display:flex;background-image: url(images/top-banner.png);background-repeat: no-repeat;
+    display:flex;background-image: url(images/top-banner.png);background-repeat: no-repeat;padding-bottom:70px
 }
 .section-two{
 width:100%;padding-left: 0px;padding-left: 50px;
