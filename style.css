@@ -1,9 +1,28 @@
 body{ 
-    font-family: 'Ubuntu Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;margin:0;
+}
+p{
+    padding-bottom:40px
 }
 .headone span{
 color:orange;
 }
+.headone{
+    font-size: 45px;
+}
 .hire-me{
-    
+    background-image: linear-gradient(orange, tomato); text-decoration: none;padding:10px;border-radius:5px;
+    font-weight:700;color:white;
+}
+h1{
+    font-size:60px
+}
+section{ 
+    display:flex;background-image: url(images/top-banner.png);background-repeat: no-repeat;
+}
+.section-two{
+width:100%;padding-left: 0px;padding-left: 50px;
+}
+.section-two img {
+    width:80%
 }
