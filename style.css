@@ -1,42 +1,62 @@
-body{ 
-    font-family: 'Ubuntu Mono', monospace;margin:0;
+body {
+  font-family: "Ubuntu Mono", monospace;
+  margin: 0;
 }
-p{
-    padding-bottom:40px;
+p {
+  padding-bottom: 40px;
 }
-.head-one span{
-color:orange;
+.head-one span {
+  color: orange;
 }
-.head-one{
-    font-size: 45px;
+.head-one {
+  font-size: 45px;
 }
-.hire-me{
-    background-image: linear-gradient(orange, tomato); text-decoration: none;padding:10px;border-radius:5px;
-    font-weight:700;color:white;
+.hire-me {
+  background-image: linear-gradient(orange, tomato);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
 }
-h1{
-    font-size:60px
+h1 {
+  font-size: 60px;
 }
-.flexible{ 
-    display:flex;background-image: url(images/top-banner.png);background-repeat: no-repeat;padding-bottom:70px
+.flexible {
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+  padding-bottom: 70px;
+  background-size: cover;
 }
-.section-two{
-width:100%;padding-left: 0px;padding-left: 50px;
+.section-two {
+  width: 100%;
+  padding-left: 0px;
+  padding-left: 50px;
 }
 .section-two img {
-    width:80%
+  width: 80%;
 }
-.orange{
-    color:orange
+.orange {
+  color: orange;
 }
-.head{ font-size:50px}
-.section-three{
-width:40%;;box-shadow:10px 10px 40px black; margin-left:5%;margin-right:5%;padding-left:10px
+.head {
+  font-size: 50px;
 }
-#two{ 
-    border-left:5px solid blue
+.section-three {
+  width: 40%;
+  box-shadow: 10px 10px 40px black;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
 }
-#three{ 
-    border-left:5px solid orange
+#two {
+  border-left: 5px solid blue;
 }
-footer{ text-align: center; padding-bottom:20px }
+#three {
+  border-left: 5px solid orange;
+}
+footer {
+  text-align: center;
+  padding-bottom: 20px;
+}
